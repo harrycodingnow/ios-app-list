@@ -27,8 +27,6 @@
 
 ### InspoCam
 
-> Capture photos with reference overlays
-
 <img src="/inspocam.png" width="100"/>
 
 - 📷 Take photos aligned with inspiration images
@@ -50,13 +48,9 @@
 
 ## 😏 Rizzy
 
-> AI pickup line generator
+<img src="/rizzy_icon.png" width="100"/>
 
-<img src="YOUR_APP_ICON_URL" width="100"/>
-
-- 🤖 Generate pickup lines with AI
-- 🎭 Multiple tones (funny, flirty, savage)
-- ⚡ Instant results
+- 🤖 Generate chinesepickup lines with screenshots
 
 ---
 
@@ -64,7 +58,7 @@
 
 > YikYak-style anonymous social app for Taiwan
 
-<img src="YOUR_APP_ICON_URL" width="100"/>
+<img src="/yapyap_icon.png" width="100"/>
 
 - 📍 Location-based anonymous posts
 - 🧑‍🤝‍🧑 Designed for campus communities
