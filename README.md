@@ -1,6 +1,6 @@
 # Solo Developed iOS Apps
 
-## Money Talks (出口成帳)
+## [Money Talks (出口成帳)](https://apps.apple.com/sg/app/money-talks-expense-tracker/id6753856530)
 
 <img src="/icon.png" width="120"/>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## InspoCam
+## [InspoCam](https://apps.apple.com/sg/app/inspocam/id6760427532)
 
 <img src="/inspocam.png" width="100"/>
 
@@ -48,12 +48,12 @@
 
 ---
 
-## Rizzy - Upload screenshot, Generate Chinese Pick Up Lines for you.
+## [Rizzy - Upload screenshot, Generate Chinese Pick Up Lines for you.](https://apps.apple.com/sg/app/rizzy-%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84%E6%88%80%E6%84%9B%E5%AE%B6%E6%95%99/id6752532305)
 
 <img src="/rizzy_icon.png" width="100"/>
 
 ---
 
-## Yapyap - YikYak-style anonymous social app for Taiwan
+## [Yapyap - YikYak-style anonymous social (Only available at Taiwan Region)](https://apps.apple.com/sg/app/rizzy-%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84%E6%88%80%E6%84%9B%E5%AE%B6%E6%95%99/id6752532305)
 
 <img src="/yapyap_icon.png" width="100"/>
