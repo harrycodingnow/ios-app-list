@@ -66,3 +66,13 @@
 ## [Yapyap - YikYak-style anonymous social (Only available at Taiwan Region)](https://apps.apple.com/tw/app/yapyap-%E5%8D%B3%E6%99%82%E5%8C%BF%E5%90%8D%E7%A4%BE%E7%BE%A4-%E9%99%90%E5%AE%9A-5-%E5%85%AC%E9%87%8C/id6751183691)
 
 <img src="/yapyap_icon.png" width="100"/>
+
+### 📸 Screenshots
+
+<p float="left">
+  <img src="/460x996bb.webp" width="130"/>
+  <img src="/460x996bb (1).webp" width="130"/>
+  <img src="/460x996bb (2).webp" width="130"/>
+  <img src="/460x996bb (3).webp" width="130"/>
+
+</p>
