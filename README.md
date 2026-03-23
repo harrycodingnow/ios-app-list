@@ -54,6 +54,6 @@
 
 ---
 
-## [Yapyap - YikYak-style anonymous social (Only available at Taiwan Region)](https://apps.apple.com/sg/app/rizzy-%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84%E6%88%80%E6%84%9B%E5%AE%B6%E6%95%99/id6752532305)
+## [Yapyap - YikYak-style anonymous social (Only available at Taiwan Region)](https://apps.apple.com/tw/app/yapyap-%E5%8D%B3%E6%99%82%E5%8C%BF%E5%90%8D%E7%A4%BE%E7%BE%A4-%E9%99%90%E5%AE%9A-5-%E5%85%AC%E9%87%8C/id6751183691)
 
 <img src="/yapyap_icon.png" width="100"/>
