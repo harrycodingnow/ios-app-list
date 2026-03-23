@@ -25,11 +25,11 @@
 
 ---
 
-## 📸 InspoCam
+### InspoCam
 
 > Capture photos with reference overlays
 
-<img src="YOUR_APP_ICON_URL" width="100"/>
+<img src="/inspocam.png" width="100"/>
 
 - 📷 Take photos aligned with inspiration images
 - 🎯 Perfect for recreating poses, aesthetics, and compositions
