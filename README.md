@@ -1,4 +1,4 @@
-# Featured iOS Apps
+# Solo Developed iOS Apps
 
 ## Money Talks (出口成帳)
 
