@@ -25,7 +25,7 @@
 
 ---
 
-### InspoCam
+## InspoCam
 
 <img src="/inspocam.png" width="100"/>
 
