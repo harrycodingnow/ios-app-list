@@ -29,6 +29,8 @@
 
 <img src="/inspocam.png" width="100"/>
 
+### Highlights
+
 - 📷 Take photos aligned with inspiration images
 - 🎯 Perfect for recreating poses, aesthetics, and compositions
 - 👥 Built for creators & social media users
