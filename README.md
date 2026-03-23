@@ -2,8 +2,6 @@
 
 ## Money Talks (出口成帳)
 
-> Voice-first AI expense tracking app
-
 <img src="/icon.png" width="120"/>
 
 ### ✨ Highlights
@@ -16,13 +14,13 @@
 ### 📸 Screenshots
 
 <p float="left">
-  <img src="/Slice 12.png" width="200"/>
-  <img src="/Slice 13.png" width="200"/>
-  <img src="/Slice 14.png" width="200"/>
-  <img src="/Slice 15.png" width="200"/>
-  <img src="/Slice 16.png" width="200"/>
-  <img src="/Slice 22.png" width="200"/>
-  
+  <img src="/Slice 12.png" width="130"/>
+  <img src="/Slice 13.png" width="130"/>
+  <img src="/Slice 14.png" width="130"/>
+  <img src="/Slice 15.png" width="130"/>
+  <img src="/Slice 16.png" width="130"/>
+  <img src="/Slice 22.png" width="130"/>
+
 </p>
 
 ---
