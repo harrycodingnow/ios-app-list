@@ -35,6 +35,17 @@
 - 🎯 Perfect for recreating poses, aesthetics, and compositions
 - 👥 Built for creators & social media users
 
+### 📸 Screenshots
+
+<p float="left">
+  <img src="/Slice 1.png" width="130"/>
+  <img src="/Slice 2.png" width="130"/>
+  <img src="/Slice 3.png" width="130"/>
+  <img src="/Slice 4.png" width="130"/>
+  <img src="/Slice 5.png" width="130"/>
+
+</p>
+
 ---
 
 ## 😏 Rizzy
