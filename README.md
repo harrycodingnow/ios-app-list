@@ -46,20 +46,16 @@
 
 ---
 
-## 😏 Rizzy
+## Rizzy
+
+> Upload screenshot, Generate Chinese Pick Up Lines for you.
 
 <img src="/rizzy_icon.png" width="100"/>
 
-- 🤖 Generate chinesepickup lines with screenshots
-
 ---
 
-## 💬 Yapyap
+## Yapyap
 
 > YikYak-style anonymous social app for Taiwan
 
 <img src="/yapyap_icon.png" width="100"/>
-
-- 📍 Location-based anonymous posts
-- 🧑‍🤝‍🧑 Designed for campus communities
-- 🔥 High engagement social experience
